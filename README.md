@@ -1,4 +1,4 @@
-# 🚀 Perancangan Sakelar Kendali Jarak Jauh Berbasis Internet of Things (IoT) - Colog V1 🌟
+# 🚀 Pengembangan Sakelar Pintar Colog Berbasis Internet of Things (IoT) - Colog V2  🌟
 
 ![Logo Proyek](https://github.com/erditona/Proyek-2/blob/ea7a407f3afe10aefd9ee8396b094f1aadde7512/Dokumentasi%20Colog%20V2.png)
 
